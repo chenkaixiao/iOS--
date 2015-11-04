@@ -1,0 +1,19 @@
+//
+//  iOS-通讯录操作Prefix.pch
+//  iOS-通讯录操作
+//
+//  Created by zero on 15/11/3.
+//  Copyright © 2015年 zerorobot. All rights reserved.
+//
+
+#ifndef iOS______Prefix_pch
+#define iOS______Prefix_pch
+
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+
+#endif
+
+#endif
